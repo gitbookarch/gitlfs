@@ -1,0 +1,1 @@
+rodo[[:space:]]biblia[[:space:]]-[[:space:]]física.pdf filter=lfs diff=lfs merge=lfs -text
